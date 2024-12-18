@@ -1,0 +1,12 @@
+{
+    "name": "pterodactyl-setup",
+    "version": "1.0.0",
+    "description": "Automated setup for Pterodactyl Panel on Render",
+    "main": "runner.js",
+    "scripts": {
+      "start": "node runner.js"
+    },
+    "dependencies": {
+      "dotenv": "^16.0.3"
+    }
+  }
